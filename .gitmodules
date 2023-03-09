@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "noia"]
+	path = noia
+	url = https://github.com/lerouzic/noia
+	shallow = true
+	registered = true
+[submodule "sra"]
+	path = sra
+	url = https://github.com/lerouzic/sra
+	shallow = true
+	registered = true

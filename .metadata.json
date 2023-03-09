@@ -1,0 +1,10 @@
+[
+  {
+    "package": "noia",
+    "oncran": true
+  },
+  {
+    "package": "sra",
+    "oncran": true
+  }
+]
