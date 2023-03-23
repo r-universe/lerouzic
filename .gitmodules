@@ -13,3 +13,8 @@
 	url = https://github.com/lerouzic/sra
 	shallow = true
 	registered = true
+[submodule "vhica"]
+	path = vhica
+	url = https://github.com/cran/vhica
+	shallow = true
+	registered = true
