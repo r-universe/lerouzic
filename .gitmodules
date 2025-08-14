@@ -10,4 +10,4 @@
 	url = https://github.com/lerouzic/sra
 [submodule "vhica"]
 	path = vhica
-	url = https://github.com/cran/vhica
+	url = https://github.com/lerouzic/vhica
